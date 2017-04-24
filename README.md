@@ -1,2 +1,2 @@
 # Visual_analytics
-Contiene delle prove ed esercizi di apprendimento
+Sto cercando di capire le caratteristiche di GitHub.
